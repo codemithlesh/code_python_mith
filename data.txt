@@ -1,0 +1,3 @@
+Hello Mithlesh!
+I am learning Python file handling.
+This is my first text file.
